@@ -1,0 +1,17 @@
+{
+  "name": "logo-generator",
+  "version": "1.0.0",
+  "main": "logogenerator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4",
+    "path": "^0.12.7",
+    "jest": "^24.9.0"
+  }
+}
